@@ -10,4 +10,5 @@ Aplikasi ini dibuat bagi orang-orang yang kesulitan berbicara dengan orang asing
 Collaborator:
 - Leonardus Rio
 - Christopher Adam
+- Franshin Mizar Husain
 
